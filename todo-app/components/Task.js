@@ -29,3 +29,5 @@ const styles = StyleSheet.create({
 		maxWidth: "80%",
 	},
 });
+
+export default Task;
